@@ -1,7 +1,7 @@
 package com.onycom.crawler.news;
 
 public class NaverNewsVal {
-	public String list1 = "nclicks(fls.list)";
+	public String list1 = "nclicks(cnt_flashart)";
 	
 	public String contents1 = "t11";
 	public String contents2 = "articleBodyContents";
